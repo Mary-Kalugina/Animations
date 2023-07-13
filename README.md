@@ -1,5 +1,5 @@
 # Webpack5
 
-[![Build status](https://ci.appveyor.com/api/projects/status/sdtxbwn0gra3e03h?svg=true)](https://ci.appveyor.com/project/Mary-Kalugina/Animations)
+[![Build status](https://ci.appveyor.com/api/projects/status/2bh2b2pacdf7olvm?svg=true)](https://ci.appveyor.com/project/Mary-Kalugina/animations)
 
-![CI](https://github.com/<Mary-Kalugina>/<Animations>/actions/workflows/web.yml/badge.svg)
+![Animations](https://mary-kalugina.github.io/Animations/)
