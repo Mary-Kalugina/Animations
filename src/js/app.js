@@ -1,7 +1,4 @@
-import ModalWindow from "./ModalWindow";
-const modalWindow = new ModalWindow();
+import Collapse from "./Collapse";
+const collapse = new Collapse();
 
-document.addEventListener("DOMContentLoaded", () => {
-    modalWindow.init();
-    document.querySelector(".submit_name").addEventListener("click", modalWindow.submitName());
-});
+document.querySelector(".collapseBtn").addEventListener("click", collapse.open);
